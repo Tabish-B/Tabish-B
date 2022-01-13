@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tabish-B
-- 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning Full stack web devlopment
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Full stack web development
 - 📫 How to reach me tabish@qq.com
 
 <!---

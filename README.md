@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/0eb2ca76-6d1a-44bd-b1b4-9006ec81b5c6/thumbnail" >
+</p>
 ## 👋 Hi, I’m Tabish Butt (@Tabish-B)
 
 I’m a **frontend-focused web developer** exploring the intersection of **Web Development, Machine Learning, and NLP**.  

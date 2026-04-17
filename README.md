@@ -1,75 +1,92 @@
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/0eb2ca76-6d1a-44bd-b1b4-9006ec81b5c6/thumbnail" >
-</p>
-## 👋 Hi, I’m Tabish Butt (@Tabish-B)
+# Tabish Butt
 
-I’m a **frontend-focused web developer** exploring the intersection of **Web Development, Machine Learning, and NLP**.  
-I care about **strong fundamentals, clear logic, and building things I actually understand**.
+Frontend Engineer (React) with experience in applied NLP and speech data pipelines, focused on building structured and maintainable user interfaces.
 
 ---
 
-## 👀 Interests
-- 🌐 Frontend Web Development
-- ⚛️ React (Vite, hooks, component-driven UI)
-- 🎨 UI systems & color science (OKLCH, accessibility)
-- 🤖 Machine Learning & NLP (applied, not buzzwords)
-- 🗣️ Language & dialect processing for low-resource languages
+## Profile
+
+I build responsive web applications using React and modern frontend tooling, focusing on clarity, predictable state management, and maintainable component design.
+
+Alongside frontend development, I am currently contributing to a DST-funded project involving low-resource dialect processing, working on audio preprocessing, dataset structuring, and preparation for speech-to-text (ASR) systems.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 **Frontend**
-- HTML5, CSS3
-- JavaScript (ES6+)
 - React (Vite)
-- TypeScript (learning)
+- JavaScript (ES6+)
+- HTML5, CSS3
 - Tailwind CSS
 
-**ML / NLP (Foundations)**
-- Python
-- Text processing & NLP basics
-- Phonetics (IPA), script handling
-- Basic ML concepts (clustering, data preparation)
-- Exploring AI + frontend integration via APIs
+**Currently Developing**
+- TypeScript
+- Advanced React patterns
+
+**Applied NLP / Speech Data (Project Experience)**
+- Audio preprocessing and standardization (16 kHz mono, normalization)
+- Dataset organization and metadata management
+- ELAN (.eaf) annotation handling
+- Orthography standardization and IPA-based phonetic work
+- Preparation of datasets for ASR pipelines
+- Experience working with speech model fine-tuning workflows (wav2vec2, Whisper)
 
 **Tools**
 - Git & GitHub
-- Netlify
+- Netlify / Vercel
 - VS Code
 
 ---
 
-## 🚀 Projects & Focus
+## Selected Work
 
-- 🧮 **React Calculator Projects**  
-  Learning state, props, and UI logic deeply
+### React Calculator Series
+A set of calculator applications built to deeply understand state management, input handling, and UI logic.
 
-- 🎨 **AI-Powered Color Tools**  
-  Color extraction, OKLCH conversion, palette harmony  
-  (focused on understanding the math, not just using libraries)
-
-- 🗣️ **Dialect & Language Preservation (NLP)**  
-  Working with text, phonetics (IPA), and structured linguistic data  
-  Interest in low-resource language pipelines
+Status: In development — final version with improved UI, edge case handling, deployment, and documented implementation details.
 
 ---
 
-## 🧠 How I Learn
-- Fundamentals before frameworks
-- No “magic” without understanding
-- Build → break → fix → document
-- Prefer logic and structure over hype
+### Cromiq — Color System Tool (In Progress)
+A frontend-focused tool for exploring color systems and conversions (RGB, OKLCH), with emphasis on understanding underlying logic rather than relying on libraries.
+
+Status: Actively under development. Will include live demo and full documentation upon completion.
 
 ---
 
-## 🎯 Goals
-- Make frontend fundamentals permanent
-- Build honest, presentable projects
-- Combine React with ML/NLP meaningfully
-- Move toward explainable AI-powered web apps
+### Low-Resource Language Processing (DST Project)
+
+Contributing to a DST-funded research project focused on preservation of low-resource dialects using AI-based approaches.
+
+Key contributions:
+- Designed and implemented audio preprocessing pipelines (standardization, normalization, quality checks)
+- Structured and maintained speech datasets with detailed metadata for traceability
+- Worked with ELAN (.eaf) annotations and transcription workflows
+- Developed and enforced orthographic and phonetic (IPA) consistency guidelines
+- Prepared datasets for speech-to-text (ASR) model training and evaluation
+
+Note: Code and datasets are part of a government-funded research project and are not publicly shareable.
 
 ---
 
-## 📫 Connect
-- GitHub: https://github.com/Tabish-B
+## Working Approach
+
+- Emphasis on fundamentals before abstraction  
+- Preference for explicit, readable logic  
+- Iterative development: build, test, refine  
+- Focus on maintainability and clarity  
+
+---
+
+## Current Focus
+
+- Strengthening core React concepts  
+- Building production-quality frontend projects  
+- Integrating frontend systems with applied NLP workflows  
+
+---
+
+## Contact
+
+GitHub: https://github.com/Tabish-B

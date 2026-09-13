@@ -86,24 +86,6 @@ Note: Code and datasets are part of a government-funded research project and are
 
 ---
 
-### MythicLens — Interpretable Folktale Classifier
-
-A planned human-centered NLP prototype that uses interpretable text classification to explore stylistic and symbolic patterns in folktales and fairy tales.
-
-The project extends my interest in cultural knowledge interfaces into NLP by exploring how transparent machine learning models can support cultural text exploration.
-
-Planned scope:
-- Public folktale/fairy-tale dataset
-- Text preprocessing and bag-of-words vectorization
-- Logistic regression implemented from scratch
-- Evaluation using accuracy, precision, recall, and F1 score
-- Interpretation through top influential words
-- Optional React interface for interactive prediction and explanation
-
-Status: Planned / in development.
-
----
-
 ## Working Approach
 
 - Emphasis on fundamentals before abstraction

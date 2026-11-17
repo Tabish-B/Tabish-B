@@ -1,116 +1,118 @@
 # Tabish Butt
 
-Frontend Engineer (React) with applied NLP and speech data experience, focused on human-centered interfaces for language and cultural knowledge systems.
+**Computer Science Researcher | Deep Learning • NLP • Speech & Audio Processing**
+
+Research interests spanning deep learning, natural language processing, low-resource speech recognition, signal analysis, and explainable artificial intelligence.
 
 ---
 
-## Profile
+## About Me
 
-I build responsive and maintainable web applications using React, modern frontend tooling, and clear component architecture.
+I am a Computer Science researcher with experience in deep learning, signal classification, natural language processing (NLP), and low-resource speech technologies.
 
-My work sits at the intersection of frontend engineering, cultural knowledge interfaces, and applied language technology. I built [MythicArchive.org](https://mythicarchive.org), a public mythology and ancient history archive for exploring characters, lore, timelines, articles, and symbolic traditions.
+My work involves developing and evaluating machine learning models, analysing signal representations, and preparing speech datasets for automatic speech recognition (ASR).
 
-Alongside frontend development, I am contributing to a DST-funded low-resource dialect processing project, working on audio preprocessing, dataset structuring, ELAN annotation handling, orthography standardization, and preparation of speech datasets for ASR systems.
+I have worked on spectrogram-based wireless signal classification using deep learning architectures and ensemble methods. My ongoing research focuses on low-resource speech recognition, including speech preprocessing, dataset preparation, model development, and evaluation.
 
-I am particularly interested in human-centered NLP: building interfaces that make language technologies, cultural archives, and AI-assisted knowledge systems more interpretable, usable, and accessible.
+I am particularly interested in **robust, interpretable, and data-efficient machine learning approaches** for speech, audio, and language processing.
+
+---
+
+## Research Interests
+
+- **Natural Language Processing (NLP)**
+- **Automatic Speech Recognition (ASR)** — Low-resource and underrepresented languages
+- **Speech & Audio Processing** — Signal analysis, spectral representations, and feature extraction
+- **Deep Learning** — Neural architectures, representation learning, and model evaluation
+- **Explainable AI (XAI)** — Model interpretability and explainability
+
+---
+
+## Research Experience
+
+### Low-Resource Speech Recognition
+
+Research involving the development and evaluation of deep learning approaches for automatic speech recognition in underrepresented language varieties.
+
+- Contribute to speech technology research supporting the documentation of 6+ endangered dialects.
+- Developed preprocessing workflows for approximately 61 hours of speech recordings, including audio standardisation, segmentation, and dataset preparation.
+- Investigate deep learning approaches using annotated and unannotated speech data.
+- Developed and evaluated speech recognition models for orthographic and phonetic transcription.
+
+*Specific architectures, experimental configurations, and unpublished research findings are not publicly disclosed.*
+
+### Spectrogram-Based Signal Classification
+
+Research exploring deep learning approaches for wireless communication signal classification using spectrogram-derived numerical features.
+
+- Generated a simulated dataset of seven wireless signal classes under varying conditions.
+- Extracted spectral features, including bandwidth, entropy, centroid, power spectral density, and signal-to-noise ratio.
+- Developed and evaluated FCNN, LSTM, Transformer, and TabNet architectures.
+- Achieved **94.84% classification accuracy** on held-out simulated test data using a stacking ensemble.
+
+**Research Areas:** Deep Learning, Signal Processing, Spectral Analysis, Feature Engineering, Ensemble Learning.
+
+---
+
+## Research Tools & Utilities
+
+### AudioBridge — Audio Conversion Tool
+
+A cross-platform audio preprocessing utility designed to support research workflows involving heterogeneous audio and video recordings.
+
+- Supports batch conversion into standardised WAV files, including 16 kHz mono output.
+- Implements audio stream inspection and output verification.
+- Provides non-destructive processing to preserve original recordings.
+- Includes a graphical interface for researchers and annotators.
+- Supports audio extraction from video formats, including MTS and MP4.
+
+**Technologies:** Python, FFmpeg, GUI Development
 
 ---
 
 ## Technical Skills
 
-**Frontend**
-- React
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
-- Responsive UI development
-- Component-based architecture
-- Structured content interfaces
+**Programming:** Python • Java • JavaScript • SQL • MATLAB
 
-**Currently Developing**
-- TypeScript
-- Advanced React patterns
-- Machine learning fundamentals
-- NLP model evaluation and interpretability
+**Machine Learning & Deep Learning:** PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas
 
-**Applied NLP / Speech Data**
-- Audio preprocessing and standardization: 16 kHz mono, normalization, quality checks
-- Dataset organization and metadata management
-- ELAN (.eaf) annotation handling
-- Orthography standardization and IPA-based phonetic work
-- Preparation of datasets for ASR pipelines
-- Familiarity with speech model fine-tuning workflows: wav2vec2, Whisper
+**Speech & Signal Processing:** ASR • Spectrogram Analysis • Feature Extraction • Audio Preprocessing • ELAN • FFmpeg
 
-**Tools**
-- Git & GitHub
-- Netlify / Vercel
-- VS Code
-- Python
-- Jupyter Notebook
+**Research & Development:** Git • GitHub • Jupyter Notebook • MATLAB
+
+**Additional Technologies:** React • Next.js • Tailwind CSS
 
 ---
 
-## Selected Work
+## Selected Software Project
 
-### MythicArchive.org — Mythology, Lore & Ancient History Archive
+### MythicArchive — Digital Mythology & Cultural Knowledge Archive
 
-A public mythology and ancient history archive focused on structured exploration of characters, lore, timelines, articles, and cultural traditions.
+**Website:** https://mythicarchive.org
 
-The project brings together mythology-related content through a searchable and navigable interface, with sections for characters, lore canons, articles, timelines, and cross-cultural mythology topics.
+An independently developed digital archive dedicated to documenting and organising mythology, ancient history, and cultural traditions.
 
-Key contributions:
-- Designed and built a structured content interface for mythology and lore exploration
-- Organized large-scale cultural knowledge into navigable sections such as characters, articles, timelines, and lore canons
-- Developed a public-facing archive experience focused on readability, discovery, and long-form exploration
-- Built search and navigation patterns to support exploration across mythological figures, traditions, and symbolic themes
-- Maintained the project as an independent digital archive with live public deployment
+- Developed a structured knowledge platform using Next.js and React.
+- Implemented searchable interfaces for characters, articles, timelines, and lore.
+- Organised cultural knowledge into navigable collections.
+- Focused on information accessibility, discovery, and long-form exploration.
 
-Live site: [https://mythicarchive.org](https://mythicarchive.org)  
-Codebase: Private
+**Technologies:** Next.js, React, JavaScript, Tailwind CSS
 
 ---
 
-### Low-Resource Language Processing — DST Project
+## Research Direction
 
-Contributing to a DST-funded research project focused on the preservation and processing of low-resource dialects using AI-based approaches.
+My research interests lie at the intersection of **deep learning, speech and audio processing, NLP, and interpretable AI**.
 
-Key contributions:
-- Designed and implemented audio preprocessing workflows, including standardization, normalization, and quality checks
-- Structured and maintained speech datasets with detailed metadata for traceability
-- Worked with ELAN (.eaf) annotations and transcription workflows
-- Developed and enforced orthographic and IPA-based consistency guidelines
-- Prepared datasets for speech-to-text model training and evaluation
-- Gained exposure to ASR model preparation workflows involving wav2vec2 and Whisper
+I am particularly interested in machine learning approaches addressing limited annotated data, complex signal representations, and reliable model performance.
 
-Note: Code and datasets are part of a government-funded research project and are not publicly shareable.
+My long-term objective is to contribute to research advancing robust and interpretable AI systems for speech, audio, and language understanding.
 
 ---
 
-## Working Approach
+## Connect
 
-- Emphasis on fundamentals before abstraction
-- Preference for explicit, readable logic
-- Iterative development: build, test, refine
-- Focus on maintainability, clarity, and traceability
-- Interest in interfaces that make complex systems easier to understand
+**GitHub:** https://github.com/Tabish-B
 
----
-
-## Current Focus
-
-- Strengthening React and TypeScript skills
-- Building production-quality frontend projects
-- Developing machine learning fundamentals through from-scratch implementations
-- Exploring human-centered NLP, interpretable AI, and low-resource language technology
-
----
-
-## Long-Term Direction
-
-I aim to work at the intersection of frontend engineering, NLP, and human-centered AI, with a long-term interest in research on interpretable interfaces for language, speech, and cultural knowledge systems.
-
----
-
-## Contact
-
-GitHub: [https://github.com/Tabish-B](https://github.com/Tabish-B)
+Open to research collaboration and PhD opportunities in deep learning, NLP, speech and audio processing, and related areas.
